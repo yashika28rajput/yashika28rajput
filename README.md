@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Brain Tumor Classification and AI-Based Hiring Prediction Systems<br><br>👯 I’m looking to collaborate on AI, Machine Learning, and Computer Vision Projects<br><br>🤝 I’m looking for help with Cloud Deployment, MLOps, and LLM Applications<br><br>🌱 I’m currently learning Advanced Deep Learning, NLP, and Generative AI<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, and Data Analytics<br><br>⚡ Fun fact: I love learning by building projects rather than just studying theory.
+🔭 I’m currently working on Deep Learning and Machine Learning Projects<br><br>👯 I’m looking to collaborate on AI, Machine Learning, and Computer Vision Projects<br><br>🤝 I’m looking for help with Cloud Deployment, MLOps, and LLM Applications<br><br>🌱 I’m currently learning Advanced Deep Learning, NLP, and Generative AI<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, and Data Analytics<br><br>⚡ Fun fact: I love learning by building projects rather than just studying theory.
 
 
 ## 🌐 Socials:
